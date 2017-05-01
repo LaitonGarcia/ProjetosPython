@@ -1,0 +1,8 @@
+print(type("Ola, mundo!"))
+print(type(17))
+print("Ola, mundo")
+print(type(17.3))
+print(type('c'))
+print(type(1/3))
+print(type(17867656876566876757847448.3984755784889768767576878878))
+type('c')
